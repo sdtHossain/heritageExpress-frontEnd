@@ -7,16 +7,6 @@ import DropdownMenu from '@/components/dropdownMenu/DropdownMenu.vue'
   <div class="bg-gray home-banner">
     <div class="container" style="min-height: 600px">
       <DropdownMenu />
-      <div class="row">
-        <div class="col-lg-6">
-          <h1 class="display-5 fw-bold py-5">Responsive left-aligned hero with image</h1>
-
-          <div class="bg-gray">
-            <TheRating />
-            <span>Based on Customer Review</span>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 </template>
